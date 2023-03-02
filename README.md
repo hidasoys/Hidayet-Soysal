@@ -1,4 +1,6 @@
-# Hidayet-Soysal# 💫 About Me:
+Hello, I'm Hidayet Soysal ✍️
+
+💫 About Me:
  I’m currently working on my Skills. <br> I am currently learning more about Software Testing and Business analytics.<br><br>📫 How to reach me: Email - hidayetsoys@gmail.com
 
 
